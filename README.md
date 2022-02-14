@@ -7,8 +7,7 @@ config: contains the config
 
 | Folder | Purpoe              |
 |------------------|-------------------|
-| logs  | contains the training logs for detectron2 model. Left empty for now|
-| notebooks  | contains the notebook for EDA |
+| logs  | contains the training logs for any model. Left empty for now|
 | checkpoints | contains the checkpoints used for finetuning and frozen model. Have intentionally left it empty. |
 | data | contains original & modified data |
 
